@@ -11,10 +11,10 @@
 ## Experience
 
 - **Software Engineer, Codalyze Technologies**   
-Working with startups and enterprises, https://www.codalyze.com  
-<em>Clients such as HotStar, KheloMore, DSP Mutual funds, Crypto Casino, Barnes & Noble  
+<em>Working with startups and enterprises, https://www.codalyze.com  
+Clients such as HotStar, KheloMore, DSP Mutual funds, Crypto Casino, Barnes & Noble  
 Part of the team as we grew from 3 to 20+ engineers  
-Dec 2016 - Present  
+Mumbai, India (Dec 2016 - Present)  
 </em>  
 
 ## Recent Projects
