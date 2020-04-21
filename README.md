@@ -1,6 +1,6 @@
 ## **Surabhi Sharma**  
 **Email**: <em>surabhisharma.226005@gmail.com</em>  
-**Github**: <em>https://github.com/surabhi226005</em>  
+**Github**: <em>https://github.com/ssurabhi-in</em>  
 **LinkedIn**: <em>https://www.linkedin.com/in/surabhi226005</em>  
 **Phone Number**: <em>+91 9689924298</em>  
 
@@ -51,7 +51,9 @@ Mumbai, India (Dec 2016 - Present)
 ## Skills
  
 **Language**: <em>Javascript</em>  
-**Technologies**: <em>NodeJs, Elasticsearch, Mongo, PostgreSQL, ReactJS, VueJS, AvaJS, MochaJS</em>  
+**Backend**: <em>NodeJs, ExpressJs, AvaJS, MochaJS</em>
+**Frontend**: <em>ReactJS, VueJS, CSS</em>
+**Database**: <em>Mongo, PostgreSQL, Elasticsearch</em>
 **Devops**: <em>Docker, AWS</em>  
 **CI/CD**: <em>Travis CI, Circle CI</em>  
 **Version Control**: <em>Git</em>
