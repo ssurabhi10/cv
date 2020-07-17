@@ -22,10 +22,6 @@ Mumbai, India (Dec 2016 - Present)
 - **Hotstar**   
 <em>Working in the internal dashboards of Ads and match management with the AdTech team</em>
 
-  - Dashboard of Ads for clients,https://brands.hotstar.com   
-  - Dashboard of Ads and Match management for internal team     
-  - Dashboard of Operations management for internal operations team   
-
 - **KheloMore**  
   <em>Largest sports aggregator and booking platform in India, https://www.khelomore.com/</em>  
 
