@@ -20,7 +20,7 @@ Mumbai, India (Dec 2016 - Present)
 ## Recent Projects
 
 - **Hotstar**   
-<em>Working in the internal dashboards of Ads and match management with the AdTech team</em>
+<em>Working in the internal dashboards of Ads and match management with the AdTech team, https://brands.hotstar.com/</em>
 
 - **KheloMore**  
   <em>Largest sports aggregator and booking platform in India, https://www.khelomore.com/</em>  
