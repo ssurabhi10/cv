@@ -1,5 +1,5 @@
 ## **Surabhi Sharma**  
-**Email**: <em>surabhisharma.226005@gmail.com</em>  
+**Email**: <em>ssurabhi.in@gmail.com</em>  
 **Github**: <em>https://github.com/ssurabhi10</em>  
 **LinkedIn**: <em>https://www.linkedin.com/in/ssurabhi10/</em>  
 **Phone Number**: <em>+91 9689924298</em>  
