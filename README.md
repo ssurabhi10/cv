@@ -10,17 +10,17 @@
 
 ## Experience
 
-- **Software Engineer, Codalyze Technologies**   
+- **Senior Software Engineer, Codalyze Technologies**   
 <em>Working with startups and enterprises, https://www.codalyze.com  
 Clients such as HotStar, KheloMore, DSP Mutual funds, Crypto Casino, Barnes & Noble  
 Part of the team as we grew from 3 to 20+ engineers  
-Mumbai, India (Dec 2016 - Present)  
+Mumbai, India (Dec 2016 - April 2021)  
 </em>  
 
 ## Recent Projects
 
 - **Hotstar**   
-<em>Working in the internal dashboards of Ads and match management with the AdTech team, https://brands.hotstar.com/</em>
+<em>Worked in the in-house and client dashboards of Ads and match management with the AdTech team, https://brands.hotstar.com/</em>
 
 - **KheloMore**  
   <em>Largest sports aggregator and booking platform in India, https://www.khelomore.com/</em>  
