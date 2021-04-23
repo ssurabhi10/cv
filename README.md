@@ -11,7 +11,7 @@
 ## Experience
 
 - **Senior Software Engineer, Codalyze Technologies**   
-<em>Working with startups and enterprises, https://www.codalyze.com  
+<em>Worked with startups and enterprises, https://www.codalyze.com  
 Clients such as HotStar, KheloMore, DSP Mutual funds, Crypto Casino, Barnes & Noble  
 Part of the team as we grew from 3 to 20+ engineers  
 Mumbai, India (Dec 2016 - April 2021)  
