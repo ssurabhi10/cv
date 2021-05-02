@@ -53,8 +53,8 @@ Mumbai, India (Dec 2016 - April 2021)
  
 **Language**: <em>Javascript</em>  
 **Backend**: <em>NodeJs, ExpressJs, AvaJS, MochaJS</em>  
-**Frontend**: <em>ReactJS, VueJS, CSS</em>  
-**Database**: <em>Mongo, PostgreSQL, Elasticsearch</em>  
+**Frontend**: <em>ReactJS, VueJS, CSS, HTML</em>  
+**Database**: <em>Mongo, Postgres, Elasticsearch</em>  
 **Devops**: <em>Docker, AWS</em>  
 **CI/CD**: <em>Travis CI, Circle CI</em>  
 **Version Control**: <em>Git</em>  
