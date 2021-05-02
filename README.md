@@ -1,8 +1,7 @@
 ## **Surabhi Sharma**  
 **Email**: <em>ssurabhi.in@gmail.com</em>  
 **Github**: <em>https://github.com/ssurabhi10</em>  
-**LinkedIn**: <em>https://www.linkedin.com/in/ssurabhi10/</em>  
-**Phone Number**: <em>+91 9689924298</em>  
+**LinkedIn**: <em>https://www.linkedin.com/in/ssurabhi10/</em>   
 
 ## Education
 **Dr. A. P. J. Abdul Kalam Technical University(AKTU), Lucknow, India**  
