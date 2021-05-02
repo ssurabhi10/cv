@@ -10,6 +10,11 @@
 
 ## Experience
 
+- **Application Engineer - Fullstack, Contentstack**   
+<em>API first, headless CMS, https://www.contentstack.com   
+India (April 2021 - Present)  
+</em> 
+
 - **Senior Software Engineer, Codalyze Technologies**   
 <em>Worked with startups and enterprises, https://www.codalyze.com  
 Clients such as HotStar, KheloMore, DSP Mutual funds, Crypto Casino, Barnes & Noble  
