@@ -14,17 +14,24 @@
 India (April 2021 - Present)  
 </em> 
 
+- **Consultant - Frontend Developer(Web), Disney+ Hotstar**   
+<em>Worked in the in-house and client dashboards of Ad Campaigns running on Hotstar Web & App with the internal AdTech team.  
+Client dashboard - https://brands.hotstar.com/   
+Tech Stack: React, Redux, Redux-Saga, Flux, HTML, CSS    
+Mumbai, India (August 2019 - April 2021)  
+</em> 
+
 - **Senior Software Engineer, Codalyze Technologies**   
 <em>Worked with startups and enterprises, https://www.codalyze.com  
-Clients such as HotStar, KheloMore, DSP Mutual funds, Crypto Casino, Barnes & Noble  
+Clients such as Disney+ HotStar, KheloMore, DSP Mutual funds, Crypto Casino, Barnes & Noble  
 Part of the team as we grew from 3 to 20+ engineers  
 Mumbai, India (Dec 2016 - April 2021)  
-</em>  
+</em>
 
 ## Recent Projects
 
 - **Hotstar**   
-<em>Worked in the in-house and client dashboards of Ads and match management with the AdTech team, https://brands.hotstar.com/</em>
+<em>Worked in the in-house and client dashboards of Ad Campaigns running on Hotstar Web & App with the internal AdTech team, https://brands.hotstar.com/</em>
 
 - **KheloMore**  
   <em>Largest sports aggregator and booking platform in India, https://www.khelomore.com/</em>  
