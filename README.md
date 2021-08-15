@@ -17,7 +17,6 @@ India (April 2021 - Present)
 - **Consultant - Frontend Developer, Disney+ Hotstar**   
 <em>Worked in the in-house and client dashboards of Ad Campaigns running on Hotstar Web & App with the internal AdTech team.  
 Part of the Localization team for the South-Asia launch  
-Client dashboard - https://brands.hotstar.com/   
 Tech Stack: React, Redux, Redux-Saga, Flux, HTML, CSS    
 Mumbai, India (August 2019 - April 2021)  
 </em> 
