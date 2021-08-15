@@ -58,10 +58,10 @@ Mumbai, India (Dec 2016 - April 2021)
 ## Skills
  
 **Language**: <em>Javascript, Typescript</em>  
-**Backend**: <em>NodeJs, ExpressJs, AvaJS, MochaJS</em>  
-**Backend Testing Tool/Library**: <em>AvaJS, MochaJS, Chai</em>  
 **Frontend**: <em>ReactJS, StencilJS, CSS, HTML</em>  
 **Frontend Testing Tool/Library**: <em>Cypress, Playwright, Jest</em>  
+**Backend**: <em>NodeJs, ExpressJs, AvaJS, MochaJS</em>  
+**Backend Testing Tool/Library**: <em>AvaJS, MochaJS, Chai</em>  
 **Database**: <em>Mongo, PostgreSQL, Elasticsearch</em>  
 **Devops**: <em>Docker, AWS</em>  
 **CI/CD**: <em>Travis CI, Circle CI</em>  
