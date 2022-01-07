@@ -11,7 +11,9 @@
 
 - **Application Engineer - Fullstack, Contentstack**   
 <em>API first, headless CMS, https://www.contentstack.com   
-India (April 2021 - Present)  
+Part of the Ecosystem team and working on managing and developing extensions.  
+Working as a Full-stack Engineer using Javascript / Typescript, React, Node mostly.  
+Mumbai, India (April 2021 - Present)  
 </em> 
 
 - **Consultant - Frontend Developer, Disney+ Hotstar**   
@@ -58,11 +60,11 @@ Mumbai, India (Dec 2016 - April 2021)
 ## Skills
  
 **Language**: <em>Javascript, Typescript</em>  
-**Frontend**: <em>ReactJS, StencilJS, CSS, HTML</em>  
-**Frontend Testing Tool/Library**: <em>Cypress, Playwright, Jest</em>  
-**Backend**: <em>NodeJs, ExpressJs, AvaJS, MochaJS</em>  
+**Frontend**: <em>ReactJS, CSS, HTML</em>  
+**Backend**: <em>NodeJs, ExpressJs</em>  
+**Frontend Testing Tool/Library**: <em>Cypress, Playwright, Jest, Testing Library</em>  
 **Backend Testing Tool/Library**: <em>AvaJS, MochaJS, Chai</em>  
 **Database**: <em>Mongo, PostgreSQL, Elasticsearch</em>  
 **Devops**: <em>Docker, AWS</em>  
-**CI/CD**: <em>Travis CI, Circle CI</em>  
+**CI/CD**: <em>Travis CI, Circle CI, Github Actions</em>  
 **Version Control**: <em>Git</em>  
