@@ -16,7 +16,7 @@ Working as a Full-stack Engineer using Javascript / Typescript, React, Node most
 Mumbai, India (April 2021 - Present)  
 </em> 
 
-- **Consultant - Frontend Developer, Disney+ Hotstar**   
+- **Consultant - Frontend Engineer, Disney+ Hotstar**   
 <em>Worked in the in-house and client dashboards of Ad Campaigns running on Hotstar Web & App with the internal AdTech team.  
 Part of the Localization team for the South-Asia launch  
 Tech Stack: React, Redux, Redux-Saga, Flux, HTML, CSS    
