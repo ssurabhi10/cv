@@ -61,7 +61,7 @@ Mumbai, India (Dec 2016 - April 2021)
     - Managed team of developers
   
 - **Betking**  
-<em>Crypto based gambling apps and exchange, (Now defunct, betking.io)</em>  
+<em>Crypto based gaming apps and exchange, (Now defunct, betking.io)</em>  
 
   - Event sourcing and CQRS based architecture
   - Crypto wallet management and admin panel for handling players
@@ -69,9 +69,8 @@ Mumbai, India (Dec 2016 - April 2021)
   - Upto 5000 orders/sec could be processed at the exchange
  
 - **Bitsafe**  
-<em>Crypto based gambling apps and exchange, (Now defunct, betking.io)</em>  
+<em>Cryptocurrency wallet app and payment gateway</em>  
 
-  - Cryptocurrency wallet app and payment gateway
   - Handled backend using (NodeJS / Postgres) and frontend using (VueJS) for managing multiple user accounts and transactions which allowed sending assets via links to any social account
   - Built merchant side of the app with an integrable payment gateway which could handle both wallets to the wallet and on-chain transfers and enabled onboarding of merchants on the app
   - Used microservices architecture with separation of concerns of the backend service handling financial transactions vs the service which provided miscellaneous features on the app.
