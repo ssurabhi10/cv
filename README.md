@@ -11,9 +11,8 @@
 
 - **Senior Software Engineer, Rupifi**   
 <em>B2B Payment and Checkout experience for marketplaces 
-Checkout UI with various payment methods like BNPL, UPI, Netbanking, Bank Transfer and CC/DC.
+Checkout UI with various payment methods.
 Common card details validator library - Standalone, modular and re-usable library which can be plugged and played in various places.
-New reformed Checkout UI with ReactJS.
 Technical enhancements like Sentry integration, Typescript migration and Dockerisation.
 Software Development · Software Architecture · Code Review · Interviewing · Communication · Leadership
 Bangalore, India (April 2022 - Feb 2024)  
