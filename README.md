@@ -14,7 +14,7 @@
 Checkout UI with various payment methods.
 Common card details validator library - Standalone, modular and re-usable library which can be plugged and played in various places.
 Technical enhancements like Sentry integration, Typescript migration and Dockerisation.
-Software Development · Software Architecture · Code Review · Interviewing · Communication · Leadership
+Software Development, Software Architecture, Code Review, Interviewing, Communication, Leadership
 Bangalore, India (April 2022 - Feb 2024)  
 </em>
 
