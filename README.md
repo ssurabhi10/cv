@@ -9,6 +9,15 @@
 
 ## Experience
 
+- **Software Development Engineer 3 (Team Lead), Groww**   
+<em>B2B Payment and Checkout experience for marketplaces   
+Driving the frontend strategy and execution for Web Stocks – Equity, MTF and Primaries–IPO, ETF NFO, OFS, etc.   
+Strong focus on performance optimization, scalability, compliance, and user experience.   
+Proven track record in team leadership, tech strategy, and delivering high-impact fintech solutions.   
+Expertise in React, frontend system design, and fintech regulatory compliance.   
+Bangalore, India (Feb 2024 - Present)  
+</em>
+
 - **Senior Software Engineer, Rupifi**   
 <em>B2B Payment and Checkout experience for marketplaces   
 Checkout UI with various payment methods.  
