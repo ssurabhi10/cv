@@ -9,14 +9,20 @@
 
 ## Experience
 
+- **KheloMore**  
+  <em>Largest sports aggregator and booking platform in India, https://www.khelomore.com/</em>  
+
+    - Built and managed stack on Node and React
+    - Used Elasticsearch for full text search
+    - Managed team of developers
+
 - **Software Development Engineer 3, Groww**   
-<em>Leading Web for Stocks at Groww – Equity, MTF and Primaries   
-Driving the frontend strategy and execution for Web Stocks – Equity, MTF and Primaries–IPO, ETF NFO, OFS, etc.   
-Strong focus on performance optimization, scalability, compliance, and user experience.   
-Proven track record in team leadership, tech strategy, and delivering high-impact fintech solutions.   
-Expertise in React, frontend system design, and fintech regulatory compliance.   
-Bangalore, India (Feb 2024 - Present)  
-</em>
+<em>Leading Web for Stocks at Groww – Equity, MTF and Primaries</em>   
+  - Driving the frontend strategy and execution for Web Stocks – Equity, MTF and Primaries–IPO, ETF NFO, OFS   
+  - Strong focus on performance optimization, scalability, compliance, and user experience.   
+  - Proven track record in team leadership, tech strategy, and delivering high-impact fintech solutions.   
+  - Expertise in React, frontend system design, and fintech regulatory compliance.   
+      - Bangalore, India (Feb 2024 - Present)  
 
 - **Senior Software Engineer, Rupifi**   
 <em>B2B Payment and Checkout experience for marketplaces   
