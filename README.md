@@ -9,7 +9,7 @@
 
 ## Experience
 
-- **Software Development Engineer 3 (Team Lead), Groww**   
+- **Software Development Engineer 3, Groww**   
 <em>B2B Payment and Checkout experience for marketplaces   
 Driving the frontend strategy and execution for Web Stocks – Equity, MTF and Primaries–IPO, ETF NFO, OFS, etc.   
 Strong focus on performance optimization, scalability, compliance, and user experience.   
