@@ -78,7 +78,7 @@ Mumbai, India (Dec 2016 - April 2021)
 ## Skills
  
 **Language**: <em>Javascript, Typescript</em>  
-**Frontend**: <em>ReactJS, CSS, HTML</em>  
+**Frontend**: <em>ReactJS, VueJS, NextJS, NuxtJS, React Native</em>  
 **Backend**: <em>NodeJs, ExpressJs</em>  
 **Frontend Testing Tool/Library**: <em>Cypress, Playwright, Jest, Testing Library</em>  
 **Backend Testing Tool/Library**: <em>AvaJS, MochaJS, Chai</em>  
