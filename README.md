@@ -5,10 +5,10 @@
 
 ## Headline
 **SDE-3, Team Lead + Excecution, Frontend Engineering, Scalable Systems**  
-<em>Highly skilled and motivated Senior Software Engineer with 8+ years of experience in designing, developing, and implementing
+Highly skilled and motivated Senior Software Engineer with 8+ years of experience in designing, developing, and implementing
 innovative software solutions. Strong expertise in JavaScript, TypeScript, React, Node, and Web technologies. Seeking a
 challenging position to contribute my technical proficiency and leadership abilities to drive success in a dynamic software development
-environment.</em>  
+environment.  
 
 
 ## Experience
