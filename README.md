@@ -51,7 +51,7 @@ environment.
       - Mumbai, India (Dec 2016 - April 2021)  
 
 
-## Recent Projects
+## Projects
 
 - **Hotstar**   
 <em>Worked in the in-house and client dashboards of Ad Campaigns running on Hotstar Web & App with the internal AdTech team, https://brands.hotstar.com/</em>
