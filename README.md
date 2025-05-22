@@ -3,16 +3,20 @@
 **Github**: <em>https://github.com/ssurabhi10</em>  
 **LinkedIn**: <em>https://www.linkedin.com/in/ssurabhi10</em>   
 
-## Education
-**Dr. A. P. J. Abdul Kalam Technical University(AKTU), Lucknow, India**  
-<em>Information Technology (B Tech), 2012 - 2016</em>  
+## Headline
+**SDE-3, Team Lead + Excecution, Frontend Engineering, Scalable Systems**  
+<em>Highly skilled and motivated Senior Software Engineer with 8+ years of experience in designing, developing, and implementing
+innovative software solutions. Strong expertise in JavaScript, TypeScript, React, Node, and Web technologies. Seeking a
+challenging position to contribute my technical proficiency and leadership abilities to drive success in a dynamic software development
+environment.</em>  
+
 
 ## Experience
 
 - **Software Development Engineer 3, Groww**   
 <em>Leading Web for Stocks at Groww – Equity, MTF and Primaries</em>   
   - Driving the frontend strategy and execution for Web Stocks – Equity, MTF and Primaries–IPO, ETF NFO, OFS   
-  - Strong focus on performance optimization, scalability, compliance, and user experience.   
+  - Strong focus on performance optimization, scalability, compliance, user experience and search engine optimisation (SEO).   
   - Proven track record in team leadership, tech strategy, and delivering high-impact fintech solutions.   
   - Expertise in React, frontend system design, and fintech regulatory compliance.   
       - Bangalore, India (Feb 2024 - Present)  
@@ -92,3 +96,8 @@
 **Devops**: <em>Docker, AWS</em>  
 **CI/CD**: <em>Travis CI, Circle CI, Github Actions</em>  
 **Version Control**: <em>Git</em>  
+**Strategy**: <em>Search Engine Optimisation (SEO)</em>  
+
+## Education
+**Dr. A. P. J. Abdul Kalam Technical University(AKTU), Lucknow, India**  
+<em>Information Technology (B Tech), 2012 - 2016</em>  
